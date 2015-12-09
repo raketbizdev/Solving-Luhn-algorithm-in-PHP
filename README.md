@@ -1,1 +1,1 @@
-# Solving-Luhn-algorithm-in-PHP
+# Solving Luhn Algorithm in PHP
