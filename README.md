@@ -46,6 +46,7 @@ For the credit card number '5105 1051 0510 5100', the script will output:
       "provider": "MasterCard"
   }
   ```
+[Test code:](https://onecompiler.com/php/3zdgjxjck)
 
 
  
